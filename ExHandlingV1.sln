@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExHandlingV1", "ExHandlingV1.csproj", "{09174AD5-5141-446D-ABCF-A136ADFE2EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09174AD5-5141-446D-ABCF-A136ADFE2EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09174AD5-5141-446D-ABCF-A136ADFE2EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09174AD5-5141-446D-ABCF-A136ADFE2EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09174AD5-5141-446D-ABCF-A136ADFE2EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73679C54-0485-4C8E-8FFD-8DF902E8CD67}
+	EndGlobalSection
+EndGlobal
